@@ -1,0 +1,5 @@
+{
+  "input": "data/raw",
+  "report": "data/report.csv",
+  "rename": false
+}
